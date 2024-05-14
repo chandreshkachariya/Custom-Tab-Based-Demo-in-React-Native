@@ -1,7 +1,10 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-**Preview:**
+**Video Preview:**
 https://github.com/chandreshkachariya/Custom-Tab-Based-Demo-in-React-Native/assets/40895111/abc47c8a-cb42-4275-ac53-0f88b124b062
+
+**Screenshot**
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-05-14 at 11 30 34](https://github.com/chandreshkachariya/Custom-Tab-Based-Demo-in-React-Native/assets/40895111/5f16c223-e2fb-417a-9b7d-114502052d2b)
 
 # Getting Started
 
